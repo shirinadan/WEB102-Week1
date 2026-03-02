@@ -37,7 +37,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-[Video Walkthrough](https://github.com/shirinadan/WEB102-Week1/blob/main/community-board/walkthrough.mp4)
+<img src='https://github.com/shirinadan/WEB102-Week1/raw/main/community-board/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
