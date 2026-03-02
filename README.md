@@ -37,9 +37,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='PASTE_YOUR_GIF_LINK_HERE' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with ScreenToGif (or whatever tool you use).
+[Video Walkthrough](https://github.com/shirinadan/WEB102-Week1/blob/main/community-board/walkthrough.mp4)
 
 ## Notes
 
